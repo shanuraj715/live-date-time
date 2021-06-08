@@ -1,5 +1,5 @@
 {
-  "name": "live-date-time",
+  "name": "react-live-date-time",
   "version": "1.0.0",
   "description": "React component to display live running time and date. It also provides you the API to get live time and convert timestamp to any format via functions.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shanuraj715/live-date-time.git"
+    "url": "https://github.com/shanuraj715/react-live-date-time.git"
   },
   "keywords": [
     "live date time",
